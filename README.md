@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eshevvy
+- 👋 Hi, I’m Shevvy Enomate
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning software engineering @ ALX
 - 💞️ I’m looking to collaborate on engineering projects as regards software development
